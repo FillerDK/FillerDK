@@ -45,7 +45,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 -->
 
-### 📊 GitHub Stats
+### 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=FillerDK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FillerDK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=FillerDK&theme=midnight-purple&hide_border=true)<br/> -->
