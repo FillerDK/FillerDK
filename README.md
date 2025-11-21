@@ -1,4 +1,71 @@
-# Hi there 👋, I'm Philip!
+<style>
+  
+.typewriter-effect {
+  display: flex;
+  justify-content: center;
+  font-family: monospace;
+}
+
+.typewriter-effect > .text {
+  max-width: 0;
+  animation: typing 3s steps(var(--characters)) infinite;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.typewriter-effect::after {
+  content: " |";
+  animation: blink 1s infinite;
+  animation-timing-function: step-end;
+}
+
+@keyframes typing {
+  75%,
+  100% {
+    max-width: calc(var(--characters) * 1ch);
+  }
+}
+
+@keyframes blink {
+  0%,
+  75%,
+  100% {
+    opacity: 1;
+  }
+  25% {
+    opacity: 0;
+  }
+}
+/* Unrelated styles */
+:root {
+  font-size: 18px;
+}
+
+body {
+  height: 80vh;
+  line-height: 1.5;
+  font-family: sans-serif;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  width: 100%;
+  max-width: 800px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h2 small {
+  opacity: 0.7;
+  font-weight: normal;
+}
+</style>
+
+<h1>Hi there 👋, I'm Philip!<h1/>
 
 👨‍🎓 4th-semester Computer Science student at Erhvervsakademi Aarhus, Denmark<br>
 🚀 Passionate about building software with great user experiences<br>
