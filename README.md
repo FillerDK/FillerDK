@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Philip!
 
-👨‍🎓 4th-semester Computer Science student at Erhvervsakademi Aarhus, Denmark<br>
+👨‍🎓 4th-semester Computer Science student at Erhvervsakademi Aarhus, Denmark
 🚀 Passionate about building software with great user experiences<br>
 📚 Always curious about learning new things, and creating solutions that matter 💡<br>
 
@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=FillerDK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FillerDK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=FillerDK&theme=midnight-purple&hide_border=true)<br/> -->
-<br>
+<br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
