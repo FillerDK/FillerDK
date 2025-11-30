@@ -4,7 +4,7 @@
 🚀 Passionate about building software with great user experiences<br>
 📚 Always curious about learning new things, and creating solutions that matter 💡<br>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" />
@@ -19,7 +19,8 @@
 <img align="left" alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
 <br/>
 
-### 📊 Stats
+<!--
+## 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=FillerDK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FillerDK&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=FillerDK&theme=midnight-purple&hide_border=true)<br/> -->
