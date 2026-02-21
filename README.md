@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Philip!
 
-👨‍🎓 4th-semester Computer Science student at Erhvervsakademi Aarhus, Denmark<br/>
+👨‍🎓 5th-semester Computer Science student at Erhvervsakademi Aarhus, Denmark<br/>
 🚀 Passionate about building software with great user experiences<br>
 📚 Always curious about learning new things, and creating solutions that matter 💡<br>
 
